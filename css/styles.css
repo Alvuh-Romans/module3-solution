@@ -1,0 +1,59 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color:white;
+    font-family: 'oxygen', sans-serif;
+}
+/**header**/
+#header-nav {
+    background-color: grey;
+    border-radius: 0px;
+    border: 1px solid black;
+    }
+    .navbar-brand h1 {
+        /*Restaurand name*/
+        font-family: 'Lora', serif;
+        color: black;
+        font-size: 1.5em;
+        font-weight: bold;
+        text-shadow: 1px 1px 1px #222;
+        margin-top: 0;
+        margin-bottom: 0;
+        line-height: .75;
+    }
+    .navbar-brand a:hover, .navbar-brand a:focus {
+        text-decoration: none;
+    }
+    #nav-list li {
+      text-align: center;
+      border: 1px solid black;
+      font-size: 1.2em;
+      background-color: white;
+      color: black;
+      padding: 1px;
+      font-weight: bold;
+
+    }
+    .jumbotron {
+        text-align: center;
+        color: black;
+        background-color: white;
+        border: 0;
+        padding-top: 15px;
+        font-size: 4em;
+        font-weight: bold;
+        text-shadow: 1px 1px 1px #222;
+        line-height: 1.5;
+
+    }
+    .container {
+        text-align: left;
+        background-color: gray;
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: 0;
+       }
+       .container h2 {
+        text-align: center;
+        background-color: gray;
+        font-family: 'Times New Roman', Times, serif;
+       }
